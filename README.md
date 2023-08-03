@@ -38,5 +38,5 @@
 ### 🤝🏻 &nbsp;Let's get in touch or something 
 
 <p align="center">
-<a href="https://twitter.com/a1xsn"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+<a href="https://twitter.com/a1xsn"><img alt="Twitter" src="https://img.shields.io/badge/twitter-a1xsn__ul-blue"></a>
 </p>
