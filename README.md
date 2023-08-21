@@ -1,15 +1,30 @@
-## Hey there
+# Hey there 🌀
 
-### 👨🏻‍💻 &nbsp;About Me
+_**I am a1xsn, digital producer.**_
 
-- 🤔 &nbsp; One.
-- 💼 &nbsp; Two.
-- 🌱 &nbsp; Three.
-- ⚡️ &nbsp; Four.
+### Here're some of the stuff I'm experimenting with currently:
+
+- 1️⃣ &nbsp; One.
+- 2️⃣ &nbsp; Two.
+- 3️⃣ &nbsp; Three.
+- 4️⃣ &nbsp; Four.
+
+_**Inspiring**_
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### Let's Connect:
+[<img align="left" alt="a1xsn | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="a1xsn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="a1xsn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="a1xsn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+<a href="mailto:a1xsn@protonmail.com.com">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br>
+
+### Languages and Tools:
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
@@ -19,24 +34,10 @@
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
   ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
   ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
 
----
-
-### I sometimes write things
-
-<!-- BLOG-POST-LIST:START -->
-- [Just a Google link for now](https://google.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🤝🏻 &nbsp;Let's get in touch or something 
-
-<p align="center">
-<a href="https://twitter.com/a1xsn"><img alt="Twitter" src="https://img.shields.io/badge/twitter-a1xsn__ul-blue"></a>
-</p>
+<!--- Links of Social Sites --->
+[LinkedIn]: https://www.linkedin.com/in/artem-aleksashin/
+[Instagram]: https://www.instagram.com/alexasshin/
+[GitHub]: https://github.com/a1xsn/
+[Twitter]: https://twitter.com/a1xsn/
